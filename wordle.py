@@ -70,6 +70,6 @@ if len(include_char_4) > 0:
 if len(include_char_5) > 0:
     word_list = filter_include_char(word_list, include_char_5)
 
-print("Possible Words:", len(word_list))
+print("Possible Words 📖", len(word_list))
 print()
 print(word_list)

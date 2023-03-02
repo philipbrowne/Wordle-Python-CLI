@@ -2,7 +2,7 @@
 
 Find words in Wordle using the Python CLI Wordle Helper
 
-In the first command line argument, use underscores except for the known letter positions. This input must be exactly five characters or the Python will get mad, sorry 😢
+In the first command line argument, use underscores except for the known letter positions. This input must be exactly five characters or the Python will get mad, sorry! 😢🐍
 
 ```
 $python3 wordle.py __per

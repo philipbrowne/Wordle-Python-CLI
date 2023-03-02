@@ -2,7 +2,7 @@
 
 Find words in Wordle using the Python CLI Wordle Helper
 
-In the first command line argument, use underscores except for the known letter positions.
+In the first command line argument, use underscores except for the known letter positions. This input must be exactly five characters or the Python will get mad, sorry 😢
 
 ```
 $python3 wordle.py __per
@@ -22,3 +22,5 @@ $ python3 wordle.py ___e_ h p
 ['cheep', 'hyped', 'hiper', 'hyper', 'hypes', 'hoped', 'hoper', 'hopes',
 'phaet', 'phies', 'phren', 'sheep', 'shlep', 'sphex', 'upher', 'wheep']
 ```
+
+Have fun!

@@ -6,6 +6,7 @@ In the first command line argument, use underscores except for the known letter 
 
 ```
 $ python3 wordle.py __per
+Possible Words 📖 29
 
 ['amper', 'asper', 'caper', 'coper', 'doper', 'duper', 'gaper', 'hiper', 'hyper','hoper',
 'imper', 'japer','leper', 'loper', 'moper', 'neper', 'paper', 'piper', 'raper', 'riper',
@@ -18,6 +19,7 @@ Example Use:
 
 ```
 $ python3 wordle.py ___e_ h p
+Possible Words 📖 16
 
 ['cheep', 'hyped', 'hiper', 'hyper', 'hypes', 'hoped', 'hoper', 'hopes',
 'phaet', 'phies', 'phren', 'sheep', 'shlep', 'sphex', 'upher', 'wheep']
